@@ -1,5 +1,9 @@
 this is orange 2
 
+<<<<<<< HEAD
 to whom it may concern
 
 this is from orange branch
+=======
+final from orange
+>>>>>>> orange
